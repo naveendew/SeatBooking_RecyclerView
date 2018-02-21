@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">SeatBookingRecyclerView</string>
+
+
+    <string name="text">But the problem is when the message is long the corners be big and this make my message layout is bad! i want to know if theres another method to make a rounded background!</string>
+
+</resources>
